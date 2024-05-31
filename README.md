@@ -14,7 +14,7 @@ DSPhase2Group24.ipynb: This Jupyter Notebook contains the complete code for web 
 
 ExoplanetsandHabitability.pptx: This powerpoint presentation is how we presented and communicated our insights and findings from the data in an engaging and professional manner.
 
-Exoplanets.csv: The dataset file containing exoplanet data.
+Exoplanets.rar: Contains the dataset file containing exoplanet data.
 
 ExoplanetsClean.csv: The dataset file containing exoplanet data after cleaning.
 
