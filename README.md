@@ -37,6 +37,7 @@ The following Python libraries are required to run the code:
 
 ### Analysis
 The notebooks covers the following analysis steps:
+
 Phase 1:
 * Data cleaning and preprocessing
 * Handling missing values
